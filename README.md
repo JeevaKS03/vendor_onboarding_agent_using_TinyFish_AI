@@ -1,6 +1,6 @@
 # India Vendor Onboarding Agent - TinyFish API
 
-An autonomous web agent that automates the vendor onboarding process on the India GST Portal. Built for a fast, reliable hackathon demo.
+An autonomous web agent that automates the vendor onboarding process on the India GST Portal.
 
 ## Architecture
 - **Frontend**: React + Vite (A sleek, single-page UI)
@@ -46,4 +46,3 @@ An autonomous web agent that automates the vendor onboarding process on the Indi
 4. Watch the right-hand panel! It will stream the live telemetry of the TinyFish agent as it navigates the GST portal, interacts with form elements, and prepares the document uploads.
 
 ---
-*Built for the Autonomous Web Hackathon relying exclusively on agentic workflows, no standard APIs used for the end website!*
